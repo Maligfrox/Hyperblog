@@ -1,2 +1,2 @@
-# Hyperblog
-Este es el repositorio de Hyperblog de Platzi
+# Hyperblog 
+Este es el mejor blog del mundo
